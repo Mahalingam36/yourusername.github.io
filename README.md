@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space Biology Knowledge Engine</title>
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header>
+    <h1>🚀 Space Biology Knowledge Engine</h1>
+    <nav>
+      <a href="home.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="start.html">Dashboard</a>
+      <a href="tp.html">AI BOT</a>
+    </nav>
+  </header>
+
+  <!-- ===== HERO SECTION ===== -->
+  <section class="hero">
+    <h2>Explore How Life Thrives Beyond Earth</h2>
+    <p>
+      Discover how plants, microbes, and humans adapt to microgravity.  
+      The Space Biology Engine brings together real experiments from the ISS to visualize life in space.
+    </p>
+    <a href="start.html" class="explore-btn">Start Exploring →</a>
+  </section>
+
+  <!-- ===== ABOUT / INTRO SECTION ===== -->
+  <section class="intro">
+    <h2>About the Project 🌠</h2>
+    <p>
+      The <strong>Space Biology Knowledge Engine</strong> is a digital platform built to help 
+      researchers and learners understand how living organisms behave in microgravity.  
+      It collects and displays experiments conducted aboard the International Space Station.
+    </p>
+    <a href="about.html" class="learn-more">Learn More →</a>
+  </section>
+
+  <!-- ===== FEATURES SECTION ===== -->
+  <section class="features">
+    <div class="feature-card">
+      <h3>🧬 Space Experiments</h3>
+      <p>Explore biological studies conducted in space — from plants to microbes and humans.</p>
+    </div>
+    <div class="feature-card">
+      <h3>📊 Knowledge Engine</h3>
+      <p>Organized data visualization that helps you understand life’s response to space.</p>
+    </div>
+    <div class="feature-card">
+      <h3>🤖 AI Bot</h3>
+      <p>Interact with a smart assistant to learn more about space biology research.</p>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    © 2025 Space Biology Knowledge Engine | Built by Team Astro Hacker
+  </footer>
+
+</body>
+</html>
